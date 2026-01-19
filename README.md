@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kabelo Selopyane</h1>
-<h3 align="center">A passionate Full Stack dev from South Africa</h3>
+<h1 align="center">hey👋, I'm Kabelo Selopyane</h1>
+<h3 align="center">I am a dedicated Computer Science student at the Tshwane University of Technology, specialising in software development, web technologies, and innovation-driven solutions. As the 2026 Chairperson of GKSS_TUT, I play an active leadership role in shaping the student tech community by coordinating programmes, driving chapter development, and creating platforms that empower students to grow technically and professionally.
+My leadership approach focuses on collaboration, inclusivity, and impact. I lead initiatives that connect students to industry opportunities, promote innovation through hackathons and workshops, and cultivate a culture of learning and problem-solving. Through mentorship, I help students strengthen both their technical capabilities and leadership confidence, ensuring that the next generation of tech talent is equipped to contribute meaningfully to the ecosystem.
+**Technically, I am skilled in Java programming, full-stack web development (HTML, CSS, JavaScript, and modern frameworks), and building interactive, user-centred solutions. I am passionate about exploring emerging technologies, developing impactful projects, and continuously learning to stay ahead in a fast-evolving field.
+Looking ahead in 2026, my goal is to merge strong technical expertise with purposeful leadership to drive meaningful change in the tech community and create solutions that positively influence industries and communities across South Africa and beyond.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-selopyane&label=Profile%20views&color=0e75b6&style=flat" alt="mr-selopyane" /> </p>
 
