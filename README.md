@@ -6,9 +6,6 @@ Looking ahead in 2026, my goal is to merge strong technical expertise with purpo
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-selopyane&label=Profile%20views&color=0e75b6&style=flat" alt="mr-selopyane" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-selopyane" alt="mr-selopyane" /></a> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
